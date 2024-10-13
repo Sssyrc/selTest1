@@ -1,0 +1,1 @@
+BASE_URL = 'https://aviax-staging-frontend.dev.cloud.aviata.team/tours'

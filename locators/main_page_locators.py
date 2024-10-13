@@ -1,0 +1,5 @@
+HOT_TOURS_TITLE_XPATH = '//*[text()="Горящие туры"]'
+POPULAR_TOURS_SEA_FILTER_XPATH = '//*[text()="Море"]'
+POPULAR_TOURS_TROPIC_FILTER_XPATH = '//*[text()="Тропики"]'
+POPULAR_TOURS_ASIA_FILTER_XPATH = '//*[text()="Азия"]'
+POPULAR_TOURS_EUROPE_FILTER_XPATH = '//*[text()="Европа"]'
